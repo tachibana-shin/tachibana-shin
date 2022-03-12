@@ -2,7 +2,7 @@
 
 -🏃私はWordWideWebとiOSの脱獄プロジェクトに取り組んでいます
 
--🌱私は現在Android用のコーダーを開発しています[Shin Code Editor](https://github.com/Shin-Code-Editor)、Jailbreak Tools、Clone App Command ...
+-🌱私は現在Android用のコーダーを開発しています[WCode](https://github.com/wcode)、Jailbreak Tools、Clone App Command ...
 
 -💬私に興味がある場合は、[issues](https://github.com/Shin-Tachibana/Shin-Tachibana/issues/new?template=ama-template.md&title=Koniichiwa%20Shin%20Tachibana)までご連絡ください。
 
