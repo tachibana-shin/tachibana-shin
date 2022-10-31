@@ -10,4 +10,9 @@
 
 私の公開リポジトリをさらにいくつかチェックしてください
 
-![stats](https://github-readme-stats.vercel.app/api?username=tachibana-shin&show_icons=true&theme=radical&hide=contribs) ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tachibana-shin&layout=compact&theme=radical)
+![stats](https://github-readme-stats.vercel.app/api?username=tachibana-shin&show_icons=true&theme=highcontrast&hide_border=true)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tachibana-shin&layout=compact&theme=highcontrast&hide_border=true)
+![top](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tachibana-shin&theme=radical)
+<!-- ![rank](https://github-readme-streak-stats.herokuapp.com/?user=tachibana-shin&theme=yellowdark&hide_border=true)
+![activity](https://activity-graph.herokuapp.com/graph?username=tachibana-shin&bg_color=000000&color=D9D9D9&line=FCFF00&point=FFFFFF&hide_border=true) -->
+![trophy](https://github-profile-trophy.vercel.app/?username=tachibana-shin&row=2&column=3&theme=dark_lover)
