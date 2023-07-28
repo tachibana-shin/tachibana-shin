@@ -27,4 +27,4 @@ Check out some more of my public repositories
 ![activity](https://activity-graph.herokuapp.com/graph?username=tachibana-shin&bg_color=000000&color=D9D9D9&line=FCFF00&point=FFFFFF&hide_border=true) -->
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=tachibana-shin&row=2&column=3&theme=dark_lover) -->
 
-
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P3MM3H6)
