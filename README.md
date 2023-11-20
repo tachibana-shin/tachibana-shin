@@ -1,6 +1,6 @@
 <p>
   <a href="https://twitter.com/tachib_shin">
-    <img src="https://img.shields.io/twitter/follow/tachib_shin?label=Follow%20Tachibana%30Shin&style=social" alt="X">
+    <img src="https://img.shields.io/twitter/follow/tachib_shin?label=Follow%20Tachibana%20Shin&style=social" alt="X">
   </a>&ensp;
   <a href="https://stackoverflow.com/users/12342919/tachibana-shin?tab=profile">
     <img src="https://img.shields.io/stackexchange/stackoverflow/r/12342919?color=orange" alt="Stackoverflow">
