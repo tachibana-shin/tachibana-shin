@@ -1,22 +1,32 @@
-### こんにちは、芯です！　
+<p>
+  <a href="https://twitter.com/tachib_shin">
+    <img src="https://img.shields.io/twitter/follow/tachib_shin?label=Follow%20Tachibana%30Shin&style=social" alt="X">
+  </a>&ensp;
+  <a href="https://stackoverflow.com/users/12342919/tachibana-shin?tab=profile">
+    <img src="https://img.shields.io/stackexchange/stackoverflow/r/12342919?color=orange" alt="Stackoverflow">
+  </a>
+</p>
 
-- 🏃私はWordWideWebとiOSの脱獄プロジェクトに取り組んでいます
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P3MM3H6)
 
-- 🌱私は現在Android用のコーダーを開発しています[WCode](https://github.com/wcode)、[AnimeVsub](https://github.com/anime-vsub)、Jailbreak Tools、Clone App Command ...
 
-- 💬私に興味がある場合は、[issues](https://github.com/tachibana-shin/tachibana-shin/issues/new?template=ama-template.md&title=Koniichiwa%20Shin%20Tachibana)までご連絡ください。
+### Hi there 👋, Tachibana Shin (橘芯) です!...Thanks for visiting my Profile
 
-- ⚠脱獄活動を一時的に停止していますが、問題が発生した場合はメールで詳細を送信してください
 
-私の公開リポジトリをさらにいくつかチェックしてください
+- 🔭 I’m currently working on open-source projects (Quasar framework and Capacitor.js, Ghostery, Adguard Extension,  [WCode](https://github.com/wcode), [AnimeVsub](https://github.com/anime-vsub), [Manga Raiku](https://github.com/manga-raiku), [fCanvas](https://github.com/fcanvas)...)
+- 🌱 Always learning new Technologies
+- 🏗 I’m developing free app, web app, chrome extensions...
+- 💬 Ask me about Quasar framework and Vue.js! And many more technologies like Python-flask framework, JavaScript, jQuery, AngularJS, Angular ...
+- 📫 How to reach me: shin@shin.is-a.dev
+- 💖 Sponsor me to support my open source work. https://ko-fi.com/tachib_shin
+- 🌴 I Loves nature travel, anime, manga, cosplay
+- 🖼️ Like to help developers and community
+---
 
-*English:*
-- 🏃 I work on WordWideWeb and iOS jailbreak projects
-- 🌱 I am currently developing coders for Android [WCode](https://github.com/wcode), [AnimeVsub](https://github.com/anime-vsub), Jailbreak Tools, Clone App Command...
-- 💬If you are interested in me, please contact me through issues.
-- ⚠ Jailbreak activities are temporarily suspended, but if you encounter any problems please email us with details
-
-Check out some more of my public repositories
+<div>
+  <h4>🏆 Github Profile Trophy</h4>
+  <img src="https://github-profile-trophy.vercel.app/?username=tachibana-shin&theme=dark&column=7"/>
+</div>
 
 ![status](https://github.com/tachibana-shin/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
 ![languages-all](https://github.com/tachibana-shin/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
