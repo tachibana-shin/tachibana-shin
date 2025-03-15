@@ -17,7 +17,7 @@
 - 🌱 Always learning new Technologies
 - 🏗 I’m developing free app, web app, chrome extensions...
 - 💬 Ask me about Quasar framework and Vue.js! And many more technologies like Python-flask framework, JavaScript, jQuery, AngularJS, Angular ...
-- 📫 How to reach me: shin@shin.is-a.dev
+- 📫 How to reach me: shin@animevsub.eu.org
 - 💖 Sponsor me to support my open source work. https://ko-fi.com/tachib_shin
 - 🌴 I Loves nature travel, anime, manga, cosplay
 - 🖼️ Like to help developers and community
