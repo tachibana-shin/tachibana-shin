@@ -38,3 +38,7 @@
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=tachibana-shin&row=2&column=3&theme=dark_lover) -->
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P3MM3H6)
+
+[![My Skills](
+https://skillicons.dev/icons?i=ts,babel,regex,rollupjs,vite,vitest,vue,nuxtjs,pnpm,react,svelte,lit,alpinejs,jquery,jest,cypress,selenium,bun,elysia,fastapi,deno,rust,cpp,lua,ocaml,wasm,php,laravel,mysql,postgres,sqlite,supabase,flutter,dart,swift,firebase,netlify,bootstrap,sass,windicss,pug,apple,arduino,astro,bash,bots,powershell,py,graphql,vscode,vim
+)](https://skillicons.dev)
