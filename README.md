@@ -28,8 +28,8 @@
   <img src="https://github-profile-trophy-sage-ten.vercel.app/?username=tachibana-shin&theme=dark&column=7"/>
 </div>
 
-![status](https://github.com/tachibana-shin/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
-![languages-all](https://github.com/tachibana-shin/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
+![status](https://github.com/tachibana-shin/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
+![languages-all](https://github.com/tachibana-shin/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
 <!-- ![stats](https://github-readme-stats.vercel.app/api?username=tachibana-shin&show_icons=true&theme=highcontrast&hide_border=true) -->
 <!-- ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tachibana-shin&layout=compact&theme=highcontrast&hide_border=true) -->
 <!-- ![top](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tachibana-shin&theme=radical) -->
