@@ -15,7 +15,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=tachibana-shin&repo=hako-epub-extension
+          options: username=tachibana-shin&repo=hako-epub-extension&theme=dark&description_lines_count=3
           path: profile/hako-epub-extension.svg
           token: ${{ secrets.GITHUB_TOKEN }}
       
@@ -23,7 +23,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=tachibana-shin&repo=rakuyomi
+          options: username=tachibana-shin&repo=rakuyomi&theme=dark&description_lines_count=3
           path: profile/rakuyomi.svg
           token: ${{ secrets.GITHUB_TOKEN }}
       
@@ -31,14 +31,14 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=tachibana-shin&repo=kosync-typescript
+          options: username=tachibana-shin&repo=kosync-typescript&theme=dark&description_lines_count=3
           path: profile/kosync-typescript.svg
           token: ${{ secrets.GITHUB_TOKEN }}
       - name: Generate pin card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=tachibana-shin&repo=cuutruyen_decryper
+          options: username=tachibana-shin&repo=cuutruyen_decryper&theme=dark&description_lines_count=3
           path: profile/cuutruyen_decryper.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
