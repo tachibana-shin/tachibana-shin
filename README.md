@@ -44,8 +44,8 @@ https://skillicons.dev/icons?i=ts,babel,regex,rollupjs,vite,vitest,vue,nuxtjs,pn
 )](https://skillicons.dev)
 
 ## My Addons
-[![](./profile/hako-epub-extension.svg)
-[![](./profile/rakuyomi.svg)
-[![](./profile/kosync-typescript.svg)
-[![](./profile/cuutruyen_decryper.svg)
+![](./profile/hako-epub-extension.svg)
+![](./profile/rakuyomi.svg)
+![](./profile/kosync-typescript.svg)
+![](./profile/cuutruyen_decryper.svg)
 
