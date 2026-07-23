@@ -44,8 +44,14 @@ https://skillicons.dev/icons?i=ts,babel,regex,rollupjs,vite,vitest,vue,nuxtjs,pn
 )](https://skillicons.dev)
 
 ## My Addons
-
+<!--
 [![](./profile/hako-epub-extension.svg)](https://github.com/tachibana-shin/hako-epub-extension)
 [![](./profile/rakuyomi.svg)](https://github.com/tachibana-shin/rakuyomi)
 [![](./profile/kosync-typescript.svg)](https://github.com/tachibana-shin/kosync-typescript)
 [![](./profile/cuutruyen_decryper.svg)](https://github.com/tachibana-shin/cuutruyen_decrypter)
+-->
+
+[![](https://github-stats-extended.vercel.app/api/pin?username=tachibana-shin&repo=hako-epub-extension&theme=dark&description_lines_count=3)](https://github.com/tachibana-shin/hako-epub-extension)
+[![](https://github-stats-extended.vercel.app/api/pin?username=tachibana-shin&repo=rakuyomi&theme=dark&description_lines_count=3)](https://github.com/tachibana-shin/rakuyomi)
+[![](https://github-stats-extended.vercel.app/api/pin?username=tachibana-shin&repo=kosync-typescript&theme=dark&description_lines_count=3)](https://github.com/tachibana-shin/kosync-typescript)
+[![](https://github-stats-extended.vercel.app/api/pin?username=tachibana-shin&repo=cuutruyen_decryper&theme=dark&description_lines_count=3)](https://github.com/tachibana-shin/cuutruyen_decryper)
